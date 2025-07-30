@@ -506,11 +506,11 @@
         <Param val="import * as csv from 'csv';&amp;#10;import * as os from 'os';&amp;#10;import {event} from 'psychopy';&amp;#10;" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
         <Param val="&amp;#10;" valType="extendedCode" updates="constant" name="Begin Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
-        <Param val="" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
-        <Param val="&amp;#10;" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="tecla_inicial = &quot;&quot;;&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="tecla_inicial = ''&amp;#10;&amp;#10;" valType="extendedCode" updates="constant" name="Begin Routine"/>
         <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
-        <Param val="keys = event.getKeys()&amp;#10;if keys:&amp;#10;    tecla_inicial = keys[0]  # Pega a primeira tecla pressionada&amp;#10;    continueRoutine = False&amp;#10;" valType="extendedCode" updates="constant" name="Each Frame"/>
-        <Param val="keys = psychoJS.eventManager.getKeys();&amp;#10;if (keys) {&amp;#10;    tecla_inicial = keys[0];&amp;#10;    continueRoutine = false;&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="keys = event.getKeys()&amp;#10;&amp;#10;for key in keys:&amp;#10;    if key == 'return':&amp;#10;        continueRoutine = False&amp;#10;    elif key == 'backspace':&amp;#10;        tecla_inicial = tecla_inicial[:-1]&amp;#10;    elif len(key) == 1:&amp;#10;        tecla_inicial += key&amp;#10;" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="keys = psychoJS.eventManager.getKeys();&amp;#10;for (var key, _pj_c = 0, _pj_a = keys, _pj_b = _pj_a.length; (_pj_c &lt; _pj_b); _pj_c += 1) {&amp;#10;    key = _pj_a[_pj_c];&amp;#10;    if ((key === &quot;return&quot;)) {&amp;#10;        continueRoutine = false;&amp;#10;    } else {&amp;#10;        if ((key === &quot;backspace&quot;)) {&amp;#10;            tecla_inicial = tecla_inicial.slice(0, (- 1));&amp;#10;        } else {&amp;#10;            if ((key.length === 1)) {&amp;#10;                tecla_inicial += key;&amp;#10;            }&amp;#10;        }&amp;#10;    }&amp;#10;}&amp;#10;" valType="extendedCode" updates="constant" name="Each JS Frame"/>
         <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
         <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
         <Param val="psychoJS.experiment.addData(&quot;tecla_inicial&quot;, tecla_inicial);&amp;#10;" valType="extendedCode" updates="constant" name="End JS Routine"/>

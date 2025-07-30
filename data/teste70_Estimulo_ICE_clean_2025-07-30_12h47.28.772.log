@@ -1,0 +1,407 @@
+6.7380 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+6.7388 	INFO 	Loaded monitor calibration from ['2025_01_21 12:22']
+6.9493 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A81F4D62E0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A81F4D6280>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A81F5B5790>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9493 	EXP 	window1: backgroundImage = ''
+6.9493 	EXP 	window1: backgroundFit = 'none'
+6.9568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9580 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9593 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9621 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9630 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9655 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9663 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9673 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9685 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9697 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9719 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9730 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9742 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9754 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9772 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9786 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9795 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9799 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.9820 	DEBUG 	Upload of Texture Font fontname complete
+6.9899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9929 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.9941 	DEBUG 	Upload of Texture Font fontname complete
+6.9960 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.9960 	EXP 	window1: recordFrameIntervals = False
+7.0725 	EXP 	window1: recordFrameIntervals = True
+7.1498 	EXP 	Screen (0) actual frame rate measured at 142.44Hz
+7.1498 	EXP 	window1: recordFrameIntervals = False
+7.1558 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1569 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1582 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1599 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1613 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1630 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1640 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1653 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1680 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1683 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.1689 	DEBUG 	Upload of Texture Font fontname complete
+7.1785 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+8.7556 	INFO 	keyboard.Keyboard is using iohub backend.
+8.7556 	INFO 	keyboard.Keyboard is using iohub backend.
+8.7556 	INFO 	keyboard.Keyboard is using iohub backend.
+8.7557 	EXP 	Estimulo_ICE_clean: status = STARTED
+8.7625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7648 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7667 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7688 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7728 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7750 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7767 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7783 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7826 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7847 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7865 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7887 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7908 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7928 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7949 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7971 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7989 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8011 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8032 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8056 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8079 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8102 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8122 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8169 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8192 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8196 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8212 	DEBUG 	Upload of Texture Font fontname complete
+8.8277 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8303 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8312 	DEBUG 	Upload of Texture Font fontname complete
+8.8729 	EXP 	Created image_16 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('right', 'bottom'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=True, flipHoriz=False, flipVert=False, image='Logo.png', interpolate=True, mask=None, maskParams=None, name='image_16', opacity=1, ori=0.0, pos=array([ 0.6 , -0.45]), size=array([0.6 , 0.15]), texRes=128.0, units='height', win=Window(...))
+8.9166 	EXP 	Created image_15 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('right', 'bottom'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=True, flipHoriz=False, flipVert=False, image='Logo.png', interpolate=True, mask=None, maskParams=None, name='image_15', opacity=1, ori=0.0, pos=array([ 0.6 , -0.45]), size=array([0.6 , 0.15]), texRes=128.0, units='height', win=Window(...))
+8.9262 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.9269 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([-0.11,  0.  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.9276 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0.0, pos=array([0.14, 0.  ]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.9312 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=False, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+8.9345 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=False, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+8.9383 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+8.9415 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=False, mask=None, maskParams=None, name='image_3', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+8.9444 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=False, mask=None, maskParams=None, name='image_4', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([2., 2.]), texRes=128.0, units='cm', win=Window(...))
+8.9471 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  1.    , -0.0039]), fillColorSpace='rgb', fillRGB=array([-1.    ,  1.    , -0.0039]), interpolate=True, lineColor=array([-1.    ,  1.    , -0.0039]), lineColorSpace='rgb', lineRGB=array([-1.    ,  1.    , -0.0039]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+8.9499 	EXP 	Created polygon_5 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([ 1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([ 1, -1, -1]), lineWidth=1.0, name='polygon_5', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.005, 0.005]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0074 	EXP 	textbox: autoLog = True
+0.0207 	EXP 	textbox: autoDraw = True
+0.0207 	EXP 	image_16: autoDraw = True
+1.9661 	DATA 	Keypress: 1
+1.9699 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+1.9703 	DEBUG 	Uploading Texture Font fontname to graphics card
+1.9708 	DEBUG 	Upload of Texture Font fontname complete
+3.7192 	DATA 	Keypress: 2
+3.7230 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+3.7233 	DEBUG 	Uploading Texture Font fontname to graphics card
+3.7238 	DEBUG 	Upload of Texture Font fontname complete
+4.7953 	DATA 	Keypress: return
+5.0273 	EXP 	textbox: autoDraw = False
+5.0273 	EXP 	image_16: autoDraw = False
+5.0273 	EXP 	text_3: height = 0.05
+5.0273 	EXP 	text_3: height = 0.05
+5.0273 	EXP 	text_3: height = 0.05
+5.0273 	EXP 	text_3: text = '12'
+5.0273 	EXP 	text_4: height = 0.05
+5.0273 	EXP 	text_4: height = 0.05
+5.0273 	EXP 	text_4: height = 0.05
+5.0273 	EXP 	text_4: text = 'Vão ser '
+5.0273 	EXP 	text_5: height = 0.05
+5.0273 	EXP 	text_5: height = 0.05
+5.0273 	EXP 	text_5: height = 0.05
+5.0273 	EXP 	text_5: text = 'repetições'
+5.0273 	EXP 	image_15: autoDraw = True
+5.0273 	EXP 	text_3: autoDraw = True
+5.0273 	EXP 	text_4: autoDraw = True
+5.0273 	EXP 	text_5: autoDraw = True
+7.8683 	DEBUG 	Read csv file with pandas: Estimulos.csv
+7.8700 	DEBUG 	Clearing unnamed columns from Estimulos.csv
+7.8703 	EXP 	Imported Estimulos.csv as conditions, 12 conditions, 2 params
+7.8845 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'LoopName': 'Estimulo_1', 'Arquivo': 'variaveis1.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+7.9586 	DEBUG 	Read excel file with openpyxl: variaveis1.xlsx
+7.9621 	EXP 	Imported variaveis1.xlsx as conditions, 34 conditions, 9 params
+7.9625 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'px1': 4.4, 'px2': -4.4, 'px3': 4.4, 'px4': -4.4, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+7.9720 	INFO 	Keyboard events cleared
+7.9718 	EXP 	image_15: autoDraw = False
+7.9718 	EXP 	text_3: autoDraw = False
+7.9718 	EXP 	text_4: autoDraw = False
+7.9718 	EXP 	text_5: autoDraw = False
+7.9718 	EXP 	image: image = 'gaborVert.png'
+7.9718 	EXP 	image_2: image = 'gaborVert.png'
+7.9718 	EXP 	image: autoDraw = True
+7.9718 	EXP 	image_2: autoDraw = True
+7.9718 	EXP 	polygon: autoDraw = True
+8.0763 	INFO 	Keyboard events cleared
+8.0760 	EXP 	image: autoDraw = False
+8.0760 	EXP 	image_2: autoDraw = False
+8.0760 	EXP 	polygon: autoDraw = False
+8.0760 	EXP 	image_3: image = 'gaborVert.png'
+8.0760 	EXP 	image_4: image = 'gaborVert.png'
+8.0760 	EXP 	image_3: autoDraw = True
+8.0760 	EXP 	image_4: autoDraw = True
+8.0760 	EXP 	polygon_2: autoDraw = True
+8.3148 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'px1': 4.3, 'px2': -4.3, 'px3': 4.3, 'px4': -4.3, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+8.3262 	INFO 	Keyboard events cleared
+8.3259 	EXP 	image_3: autoDraw = False
+8.3259 	EXP 	image_4: autoDraw = False
+8.3259 	EXP 	polygon_2: autoDraw = False
+8.3259 	EXP 	image: image = 'gaborVert.png'
+8.3259 	EXP 	image_2: image = 'gaborVert.png'
+8.3259 	EXP 	image: autoDraw = True
+8.3259 	EXP 	image_2: autoDraw = True
+8.3259 	EXP 	polygon: autoDraw = True
+8.5763 	INFO 	Keyboard events cleared
+8.5760 	EXP 	image: autoDraw = False
+8.5760 	EXP 	image_2: autoDraw = False
+8.5760 	EXP 	polygon: autoDraw = False
+8.5760 	EXP 	image: autoDraw = False
+8.5760 	EXP 	image_2: autoDraw = False
+8.5760 	EXP 	polygon: autoDraw = False
+8.5760 	EXP 	image_3: image = 'gaborVert.png'
+8.5760 	EXP 	image_4: image = 'gaborVert.png'
+8.5760 	EXP 	image_3: autoDraw = True
+8.5760 	EXP 	image_4: autoDraw = True
+8.5760 	EXP 	polygon_2: autoDraw = True
+8.8151 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'px1': 4.2, 'px2': -4.2, 'px3': 4.2, 'px4': -4.2, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+8.8263 	INFO 	Keyboard events cleared
+8.8261 	EXP 	image_3: autoDraw = False
+8.8261 	EXP 	image_4: autoDraw = False
+8.8261 	EXP 	polygon_2: autoDraw = False
+8.8261 	EXP 	image_3: autoDraw = False
+8.8261 	EXP 	image_4: autoDraw = False
+8.8261 	EXP 	polygon_2: autoDraw = False
+8.8261 	EXP 	image: image = 'gaborVert.png'
+8.8261 	EXP 	image_2: image = 'gaborVert.png'
+8.8261 	EXP 	image: autoDraw = True
+8.8261 	EXP 	image_2: autoDraw = True
+8.8261 	EXP 	polygon: autoDraw = True
+9.0764 	INFO 	Keyboard events cleared
+9.0761 	EXP 	image: autoDraw = False
+9.0761 	EXP 	image_2: autoDraw = False
+9.0761 	EXP 	polygon: autoDraw = False
+9.0761 	EXP 	image: autoDraw = False
+9.0761 	EXP 	image_2: autoDraw = False
+9.0761 	EXP 	polygon: autoDraw = False
+9.0761 	EXP 	image_3: image = 'gaborVert.png'
+9.0761 	EXP 	image_4: image = 'gaborVert.png'
+9.0761 	EXP 	image_3: autoDraw = True
+9.0761 	EXP 	image_4: autoDraw = True
+9.0761 	EXP 	polygon_2: autoDraw = True
+9.3151 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'px1': 4.1, 'px2': -4.1, 'px3': 4.1, 'px4': -4.1, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+9.3265 	INFO 	Keyboard events cleared
+9.3262 	EXP 	image_3: autoDraw = False
+9.3262 	EXP 	image_4: autoDraw = False
+9.3262 	EXP 	polygon_2: autoDraw = False
+9.3262 	EXP 	image_3: autoDraw = False
+9.3262 	EXP 	image_4: autoDraw = False
+9.3262 	EXP 	polygon_2: autoDraw = False
+9.3262 	EXP 	image: image = 'gaborVert.png'
+9.3262 	EXP 	image_2: image = 'gaborVert.png'
+9.3262 	EXP 	image: autoDraw = True
+9.3262 	EXP 	image_2: autoDraw = True
+9.3262 	EXP 	polygon: autoDraw = True
+9.5765 	INFO 	Keyboard events cleared
+9.5762 	EXP 	image: autoDraw = False
+9.5762 	EXP 	image_2: autoDraw = False
+9.5762 	EXP 	polygon: autoDraw = False
+9.5762 	EXP 	image: autoDraw = False
+9.5762 	EXP 	image_2: autoDraw = False
+9.5762 	EXP 	polygon: autoDraw = False
+9.5762 	EXP 	image_3: image = 'gaborVert.png'
+9.5762 	EXP 	image_4: image = 'gaborVert.png'
+9.5762 	EXP 	image_3: autoDraw = True
+9.5762 	EXP 	image_4: autoDraw = True
+9.5762 	EXP 	polygon_2: autoDraw = True
+9.8152 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'px1': 4, 'px2': -4, 'px3': 4, 'px4': -4, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+9.8264 	INFO 	Keyboard events cleared
+9.8261 	EXP 	image_3: autoDraw = False
+9.8261 	EXP 	image_4: autoDraw = False
+9.8261 	EXP 	polygon_2: autoDraw = False
+9.8261 	EXP 	image_3: autoDraw = False
+9.8261 	EXP 	image_4: autoDraw = False
+9.8261 	EXP 	polygon_2: autoDraw = False
+9.8261 	EXP 	image: image = 'gaborVert.png'
+9.8261 	EXP 	image_2: image = 'gaborVert.png'
+9.8261 	EXP 	image: autoDraw = True
+9.8261 	EXP 	image_2: autoDraw = True
+9.8261 	EXP 	polygon: autoDraw = True
+10.0763 	INFO 	Keyboard events cleared
+10.0760 	EXP 	image: autoDraw = False
+10.0760 	EXP 	image_2: autoDraw = False
+10.0760 	EXP 	polygon: autoDraw = False
+10.0760 	EXP 	image: autoDraw = False
+10.0760 	EXP 	image_2: autoDraw = False
+10.0760 	EXP 	polygon: autoDraw = False
+10.0760 	EXP 	image_3: image = 'gaborVert.png'
+10.0760 	EXP 	image_4: image = 'gaborVert.png'
+10.0760 	EXP 	image_3: autoDraw = True
+10.0760 	EXP 	image_4: autoDraw = True
+10.0760 	EXP 	polygon_2: autoDraw = True
+10.3152 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'px1': 3.9, 'px2': -3.9, 'px3': 3.9, 'px4': -3.9, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+10.3263 	INFO 	Keyboard events cleared
+10.3260 	EXP 	image_3: autoDraw = False
+10.3260 	EXP 	image_4: autoDraw = False
+10.3260 	EXP 	polygon_2: autoDraw = False
+10.3260 	EXP 	image_3: autoDraw = False
+10.3260 	EXP 	image_4: autoDraw = False
+10.3260 	EXP 	polygon_2: autoDraw = False
+10.3260 	EXP 	image: image = 'gaborVert.png'
+10.3260 	EXP 	image_2: image = 'gaborVert.png'
+10.3260 	EXP 	image: autoDraw = True
+10.3260 	EXP 	image_2: autoDraw = True
+10.3260 	EXP 	polygon: autoDraw = True
+10.5764 	INFO 	Keyboard events cleared
+10.5761 	EXP 	image: autoDraw = False
+10.5761 	EXP 	image_2: autoDraw = False
+10.5761 	EXP 	polygon: autoDraw = False
+10.5761 	EXP 	image: autoDraw = False
+10.5761 	EXP 	image_2: autoDraw = False
+10.5761 	EXP 	polygon: autoDraw = False
+10.5761 	EXP 	image_3: image = 'gaborVert.png'
+10.5761 	EXP 	image_4: image = 'gaborVert.png'
+10.5761 	EXP 	image_3: autoDraw = True
+10.5761 	EXP 	image_4: autoDraw = True
+10.5761 	EXP 	polygon_2: autoDraw = True
+10.8152 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'px1': 3.8, 'px2': -3.8, 'px3': 3.8, 'px4': -3.8, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+10.8263 	INFO 	Keyboard events cleared
+10.8261 	EXP 	image_3: autoDraw = False
+10.8261 	EXP 	image_4: autoDraw = False
+10.8261 	EXP 	polygon_2: autoDraw = False
+10.8261 	EXP 	image_3: autoDraw = False
+10.8261 	EXP 	image_4: autoDraw = False
+10.8261 	EXP 	polygon_2: autoDraw = False
+10.8261 	EXP 	image: image = 'gaborVert.png'
+10.8261 	EXP 	image_2: image = 'gaborVert.png'
+10.8261 	EXP 	image: autoDraw = True
+10.8261 	EXP 	image_2: autoDraw = True
+10.8261 	EXP 	polygon: autoDraw = True
+11.0764 	INFO 	Keyboard events cleared
+11.0761 	EXP 	image: autoDraw = False
+11.0761 	EXP 	image_2: autoDraw = False
+11.0761 	EXP 	polygon: autoDraw = False
+11.0761 	EXP 	image: autoDraw = False
+11.0761 	EXP 	image_2: autoDraw = False
+11.0761 	EXP 	polygon: autoDraw = False
+11.0761 	EXP 	image_3: image = 'gaborVert.png'
+11.0761 	EXP 	image_4: image = 'gaborVert.png'
+11.0761 	EXP 	image_3: autoDraw = True
+11.0761 	EXP 	image_4: autoDraw = True
+11.0761 	EXP 	polygon_2: autoDraw = True
+11.3237 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'px1': 3.7, 'px2': -3.7, 'px3': 3.7, 'px4': -3.7, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+11.3356 	INFO 	Keyboard events cleared
+11.3353 	EXP 	image_3: autoDraw = False
+11.3353 	EXP 	image_4: autoDraw = False
+11.3353 	EXP 	polygon_2: autoDraw = False
+11.3353 	EXP 	image: image = 'gaborVert.png'
+11.3353 	EXP 	image_2: image = 'gaborVert.png'
+11.3353 	EXP 	image: autoDraw = True
+11.3353 	EXP 	image_2: autoDraw = True
+11.3353 	EXP 	polygon: autoDraw = True
+11.5843 	INFO 	Keyboard events cleared
+11.5841 	EXP 	image: autoDraw = False
+11.5841 	EXP 	image_2: autoDraw = False
+11.5841 	EXP 	polygon: autoDraw = False
+11.5841 	EXP 	image: autoDraw = False
+11.5841 	EXP 	image_2: autoDraw = False
+11.5841 	EXP 	polygon: autoDraw = False
+11.5841 	EXP 	image_3: image = 'gaborVert.png'
+11.5841 	EXP 	image_4: image = 'gaborVert.png'
+11.5841 	EXP 	image_3: autoDraw = True
+11.5841 	EXP 	image_4: autoDraw = True
+11.5841 	EXP 	polygon_2: autoDraw = True
+11.8230 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'px1': 3.6, 'px2': -3.6, 'px3': 3.6, 'px4': -3.6, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+11.8343 	INFO 	Keyboard events cleared
+11.8340 	EXP 	image_3: autoDraw = False
+11.8340 	EXP 	image_4: autoDraw = False
+11.8340 	EXP 	polygon_2: autoDraw = False
+11.8340 	EXP 	image_3: autoDraw = False
+11.8340 	EXP 	image_4: autoDraw = False
+11.8340 	EXP 	polygon_2: autoDraw = False
+11.8340 	EXP 	image: image = 'gaborVert.png'
+11.8340 	EXP 	image_2: image = 'gaborVert.png'
+11.8340 	EXP 	image: autoDraw = True
+11.8340 	EXP 	image_2: autoDraw = True
+11.8340 	EXP 	polygon: autoDraw = True
+12.0842 	INFO 	Keyboard events cleared
+12.0839 	EXP 	image: autoDraw = False
+12.0839 	EXP 	image_2: autoDraw = False
+12.0839 	EXP 	polygon: autoDraw = False
+12.0839 	EXP 	image: autoDraw = False
+12.0839 	EXP 	image_2: autoDraw = False
+12.0839 	EXP 	polygon: autoDraw = False
+12.0839 	EXP 	image_3: image = 'gaborVert.png'
+12.0839 	EXP 	image_4: image = 'gaborVert.png'
+12.0839 	EXP 	image_3: autoDraw = True
+12.0839 	EXP 	image_4: autoDraw = True
+12.0839 	EXP 	polygon_2: autoDraw = True
+12.3231 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'px1': 3.5, 'px2': -3.5, 'px3': 3.5, 'px4': -3.5, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+12.3343 	INFO 	Keyboard events cleared
+12.3340 	EXP 	image_3: autoDraw = False
+12.3340 	EXP 	image_4: autoDraw = False
+12.3340 	EXP 	polygon_2: autoDraw = False
+12.3340 	EXP 	image_3: autoDraw = False
+12.3340 	EXP 	image_4: autoDraw = False
+12.3340 	EXP 	polygon_2: autoDraw = False
+12.3340 	EXP 	image: image = 'gaborVert.png'
+12.3340 	EXP 	image_2: image = 'gaborVert.png'
+12.3340 	EXP 	image: autoDraw = True
+12.3340 	EXP 	image_2: autoDraw = True
+12.3340 	EXP 	polygon: autoDraw = True
+12.5844 	INFO 	Keyboard events cleared
+12.5841 	EXP 	image: autoDraw = False
+12.5841 	EXP 	image_2: autoDraw = False
+12.5841 	EXP 	polygon: autoDraw = False
+12.5841 	EXP 	image_3: image = 'gaborVert.png'
+12.5841 	EXP 	image_4: image = 'gaborVert.png'
+12.5841 	EXP 	image_3: autoDraw = True
+12.5841 	EXP 	image_4: autoDraw = True
+12.5841 	EXP 	polygon_2: autoDraw = True
+12.8230 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'px1': 3.39999999999999, 'px2': -3.39999999999999, 'px3': 3.39999999999999, 'px4': -3.39999999999999, 'py1': 2.2, 'py2': -2.2, 'py3': -2.2, 'py4': 2.2, 'imagem': 'gaborVert.png', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+12.8343 	INFO 	Keyboard events cleared
+12.8340 	EXP 	image_3: autoDraw = False
+12.8340 	EXP 	image_4: autoDraw = False
+12.8340 	EXP 	polygon_2: autoDraw = False
+12.8340 	EXP 	image_3: autoDraw = False
+12.8340 	EXP 	image_4: autoDraw = False
+12.8340 	EXP 	polygon_2: autoDraw = False
+12.8340 	EXP 	image: image = 'gaborVert.png'
+12.8340 	EXP 	image_2: image = 'gaborVert.png'
+12.8340 	EXP 	image: autoDraw = True
+12.8340 	EXP 	image_2: autoDraw = True
+12.8340 	EXP 	polygon: autoDraw = True
+13.0843 	INFO 	Keyboard events cleared
+13.0840 	EXP 	image: autoDraw = False
+13.0840 	EXP 	image_2: autoDraw = False
+13.0840 	EXP 	polygon: autoDraw = False
+13.0840 	EXP 	image: autoDraw = False
+13.0840 	EXP 	image_2: autoDraw = False
+13.0840 	EXP 	polygon: autoDraw = False
+13.0840 	EXP 	image_3: image = 'gaborVert.png'
+13.0840 	EXP 	image_4: image = 'gaborVert.png'
+13.0840 	EXP 	image_3: autoDraw = True
+13.0840 	EXP 	image_4: autoDraw = True
+13.0840 	EXP 	polygon_2: autoDraw = True
+13.1010 	DATA 	Keypress: escape
+13.1567 	EXP 	Estimulo_ICE_clean: status = STOPPED
+13.1613 	EXP 	image_3: autoDraw = False
+13.1613 	EXP 	image_4: autoDraw = False
+13.1613 	EXP 	polygon_2: autoDraw = False
+13.1633 	EXP 	Estimulo_ICE_clean: status = STOPPED
+13.1688 	INFO 	saved data to 'C:\\Users\\Julio\\Desktop\\Estimulo_Kerstin\\data/teste70_Estimulo_ICE_clean_2025-07-30_12h47.28.772.csv'
+13.1699 	INFO 	saved data to C:\Users\Julio\Desktop\Estimulo_Kerstin\data/teste70_Estimulo_ICE_clean_2025-07-30_12h47.28.772.psydat
+13.7634 	DEBUG 	Saving data for Estimulo_ICE_clean ExperimentHandler

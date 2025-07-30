@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on julho 24, 2025, at 10:51
+    on julho 30, 2025, at 12:47
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -548,6 +548,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     continueRoutine = True
     # update component parameters for each repeat
     # Run 'Begin Routine' code from code_9
+    tecla_inicial = ''
     
     
     textbox.reset()
@@ -582,9 +583,14 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         # update/draw components on each frame
         # Run 'Each Frame' code from code_9
         keys = event.getKeys()
-        if keys:
-            tecla_inicial = keys[0]  # Pega a primeira tecla pressionada
-            continueRoutine = False
+        
+        for key in keys:
+            if key == 'return':
+                continueRoutine = False
+            elif key == 'backspace':
+                tecla_inicial = tecla_inicial[:-1]
+            elif len(key) == 1:
+                tecla_inicial += key
         
         
         # *textbox* updates
